@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp5.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/Romain.Marino.Ocr.csproj": {
+            "projectPath": "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/Romain.Marino.Ocr.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

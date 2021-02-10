@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FzBmQVC9KnbbbDdsbFImilGgOWpRMFabCTvSQwsf3Z/yHIQTaLmDwVBUIwKCNovg62uvaxsyMIIbMrl3exS8uA==",
+  "dgSpecHash": "CaCf0ZkdLvldK2n7mOUZRJpclLr2NrFlANINGbVTpv6kz+YlPWy1r6XtK1GNiIGX3G4Dv7gAP9lDwE+xo7MoMw==",
   "success": true,
   "projectFilePath": "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/Romain.Marino.Ocr.Console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/nahalu/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/home/nahalu/.nuget/packages/tesseract/4.1.1/tesseract.4.1.1.nupkg.sha512"
+  ],
   "logs": []
 }

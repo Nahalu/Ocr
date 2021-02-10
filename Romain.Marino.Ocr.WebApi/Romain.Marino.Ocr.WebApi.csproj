@@ -4,4 +4,8 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Romain.Marino.Ocr\Romain.Marino.Ocr.csproj" />
+    </ItemGroup>
+
 </Project>

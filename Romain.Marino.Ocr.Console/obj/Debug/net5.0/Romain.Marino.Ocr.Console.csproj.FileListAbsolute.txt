@@ -14,3 +14,12 @@
 /home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/ref/Romain.Marino.Ocr.Console.dll
 /home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.pdb
 /home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.genruntimeconfig.cache
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/tessdata/fra.traineddata
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/x86/leptonica-1.80.0.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/x86/tesseract41.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/x64/leptonica-1.80.0.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/x64/tesseract41.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Tesseract.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.pdb
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.csproj.CopyComplete
