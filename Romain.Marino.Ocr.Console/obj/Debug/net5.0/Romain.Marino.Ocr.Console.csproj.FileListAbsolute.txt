@@ -1,0 +1,16 @@
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.Console
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.Console.deps.json
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.Console.runtimeconfig.json
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.Console.runtimeconfig.dev.json
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.Console.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/ref/Romain.Marino.Ocr.Console.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/bin/Debug/net5.0/Romain.Marino.Ocr.Console.pdb
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.csprojAssemblyReference.cache
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.AssemblyInfoInputs.cache
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.AssemblyInfo.cs
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.csproj.CoreCompileInputs.cache
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/ref/Romain.Marino.Ocr.Console.dll
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.pdb
+/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr.Console/obj/Debug/net5.0/Romain.Marino.Ocr.Console.genruntimeconfig.cache

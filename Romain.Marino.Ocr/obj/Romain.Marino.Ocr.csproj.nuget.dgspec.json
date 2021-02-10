@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/Romain.Marino.Ocr.csproj": {}
+  },
+  "projects": {
+    "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/Romain.Marino.Ocr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/Romain.Marino.Ocr.csproj",
+        "projectName": "Romain.Marino.Ocr",
+        "projectPath": "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/Romain.Marino.Ocr.csproj",
+        "packagesPath": "/home/nahalu/.nuget/packages/",
+        "outputPath": "/home/nahalu/Workspace/Master2/Microsoft .NET/Exercises/Romain.Marino.Ocr/Romain.Marino.Ocr/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nahalu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Tesseract": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100-rc.1.20452.10/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
